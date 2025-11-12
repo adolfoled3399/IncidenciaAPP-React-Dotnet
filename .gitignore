@@ -1,0 +1,10 @@
+# Backend (.NET)
+**/bin/
+**/obj/
+.vs/
+
+# Frontend (React)
+Frontend/frontend/node_modules/
+Frontend/frontend/build/
+.DS_Store
+npm-debug.log
