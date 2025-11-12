@@ -29,6 +29,7 @@ Este proyecto está dividido en dos partes principales:
 ## Estructura del Proyecto
 
 El repositorio está organizado en una estructura de monorepo, con carpetas separadas para el frontend y el backend.
+```plaintext
 IncidenciaAPP/
 ├── Backend/                       # Proyecto Backend (.NET Web API)
 │   ├── Backend.csproj
