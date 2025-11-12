@@ -31,7 +31,7 @@ Este proyecto está dividido en dos partes principales:
 El repositorio está organizado en una estructura de monorepo, con carpetas separadas para el frontend y el backend.
 ```plaintext
 IncidenciaAPP/
-├── Backend/                       # Proyecto Backend (.NET Web API)
+├── Backend/                       # Proyecto Backend (.NET)
 │   ├── Backend.csproj
 │   ├── Program.cs
 │   ├── Controllers/
@@ -54,7 +54,7 @@ IncidenciaAPP/
         ├── App.js
         └── index.js
 ```
-## Instalación y Puesta en Marcha
+## Instalación
 
 Sigue estos pasos para ejecutar el proyecto en tu máquina local.
 
