@@ -78,6 +78,7 @@ dotnet run
 
 ### 2. Configuración del Frontend (React)
 
+```bash
 # 1. Abre OTRA terminal y ve a la carpeta del frontend
 cd IncidenciaAPP/Frontend/frontend
 
