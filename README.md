@@ -74,7 +74,7 @@ cd IncidenciaAPP/Backend
 dotnet restore
 
 # 3. Ejecuta el servidor de API
-dotnet run
+dotnet run ```
 
 ### 2. Configuración del Frontend (React)
 
