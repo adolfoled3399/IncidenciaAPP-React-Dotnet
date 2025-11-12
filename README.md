@@ -53,7 +53,7 @@ IncidenciaAPP/
         │   └── ReportesPage.jsx
         ├── App.js
         └── index.js
-
+```
 ## Instalación y Puesta en Marcha
 
 Sigue estos pasos para ejecutar el proyecto en tu máquina local.
